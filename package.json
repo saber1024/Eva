@@ -1,0 +1,16 @@
+{
+  "name": "eva",
+  "version": "1.0.0",
+  "description": "A language",
+  "main": "Eva.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./__test__/run-test.js",
+    "start": "node ./__test__/run-test.js"
+  },
+  "author": "charlie",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0"
+  }
+}
